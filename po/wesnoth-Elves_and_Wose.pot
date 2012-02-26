@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-09-05 21:08-0400\n"
+"POT-Creation-Date: 2012-02-26 17:19+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,7 +16,7 @@ msgid "EW"
 msgstr ""
 
 #. [campaign]: id=EW
-#: ./Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:7 ./Elves_and_Wose/_main.cfg:13
+#: ./Elves_and_Wose/_main.cfg:13 ./Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:7
 msgid "Elves and Wose"
 msgstr ""
 
@@ -51,16 +51,16 @@ msgid "High Lord"
 msgstr ""
 
 #. [campaign]: id=EW
-#: ./Elves_and_Wose/_main.cfg:21
-msgid "Novice level, 17 scenarios (+ 4 story only)"
-msgstr ""
-
-#. [campaign]: id=EW
-#: ./Elves_and_Wose/_main.cfg:21
+#: ./Elves_and_Wose/_main.cfg:19
 msgid ""
 "This is the story of Saleh's adventures, a faithful companion of the High Lord Kalenz since his childhood. As Kalenz heads to Weldyn to meet the king and pay respects to the deceased Delfador, he must rely on Saleh to find troops to protect the forests and the wose. Meanwhile, betrayal sweeps through Wesmere.\n"
 "\n"
 ""
+msgstr ""
+
+#. [campaign]: id=EW
+#: ./Elves_and_Wose/_main.cfg:21
+msgid "Novice level, 17 scenarios (+ 4 story only)"
 msgstr ""
 
 #. [about]
@@ -94,7 +94,7 @@ msgid "race^Aragwaithi"
 msgstr ""
 
 #. [race]: id=aragwaith
-#: ./Elves_and_Wose/races/human-aragwaithi.cfg:17
+#: ./Elves_and_Wose/races/human-aragwaithi.cfg:13
 msgid ""
 "During most of the Golden Age, the humans who inhabited the Great Continent were mostly Wesnothians, divided across various territories such as the Northlands, Elensefar and the kingdom of Wesnoth itself. However, there was once a time of great strife during which a new race of humans started to appear from nowhere. They were the 'Aragwaithi', which meant 'noble' in their native language.\n"
 "\n"
@@ -260,7 +260,7 @@ msgstr ""
 
 #. [side]: type=Elvish Marshal, id=Aryad
 #. [unit]: type=Elvish Marshal, id=Aryad
-#: ./Elves_and_Wose/scenarios/13_North_Spring.cfg:51 ./Elves_and_Wose/scenarios/23_Reunited.cfg:92 ./Elves_and_Wose/scenarios/21_Return_to_Kalian.cfg:158 ./Elves_and_Wose/scenarios/11_North_Bay.cfg:58
+#: ./Elves_and_Wose/scenarios/11_North_Bay.cfg:58 ./Elves_and_Wose/scenarios/21_Return_to_Kalian.cfg:158 ./Elves_and_Wose/scenarios/13_North_Spring.cfg:51 ./Elves_and_Wose/scenarios/23_Reunited.cfg:92
 msgid "Aryad"
 msgstr ""
 
@@ -275,32 +275,32 @@ msgid "Merdor"
 msgstr ""
 
 #. [objective]: condition=win
-#: ./Elves_and_Wose/scenarios/3_Glyns_Border.cfg:128 ./Elves_and_Wose/scenarios/8_Gitamoth_Forest.cfg:166 ./Elves_and_Wose/scenarios/12_North_Country.cfg:117 ./Elves_and_Wose/scenarios/13_North_Spring.cfg:175 ./Elves_and_Wose/scenarios/11_North_Bay.cfg:151 ./Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:200 ./Elves_and_Wose/scenarios/9_Bridge_of_Eloh.cfg:100
+#: ./Elves_and_Wose/scenarios/3_Glyns_Border.cfg:128 ./Elves_and_Wose/scenarios/8_Gitamoth_Forest.cfg:166 ./Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:200 ./Elves_and_Wose/scenarios/11_North_Bay.cfg:151 ./Elves_and_Wose/scenarios/9_Bridge_of_Eloh.cfg:100 ./Elves_and_Wose/scenarios/13_North_Spring.cfg:175 ./Elves_and_Wose/scenarios/12_North_Country.cfg:117
 msgid "Defeat all enemies"
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./Elves_and_Wose/scenarios/3_Glyns_Border.cfg:132 ./Elves_and_Wose/scenarios/6_Troll_Road.cfg:117 ./Elves_and_Wose/scenarios/8_Gitamoth_Forest.cfg:170 ./Elves_and_Wose/scenarios/22_Gitamoth_War.cfg:220 ./Elves_and_Wose/scenarios/4_Dwarven_Path.cfg:106 ./Elves_and_Wose/scenarios/14_Visiting_Crelanu.cfg:125 ./Elves_and_Wose/scenarios/2_Glyns_Castle.cfg:153 ./Elves_and_Wose/scenarios/12_North_Country.cfg:121 ./Elves_and_Wose/scenarios/13_North_Spring.cfg:179 ./Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:241 ./Elves_and_Wose/scenarios/7_Gitamoth_Border.cfg:195 ./Elves_and_Wose/scenarios/11_North_Bay.cfg:155 ./Elves_and_Wose/scenarios/5_Troll_Mountain.cfg:112 ./Elves_and_Wose/scenarios/9_Bridge_of_Eloh.cfg:104
+#: ./Elves_and_Wose/scenarios/3_Glyns_Border.cfg:132 ./Elves_and_Wose/scenarios/6_Troll_Road.cfg:117 ./Elves_and_Wose/scenarios/8_Gitamoth_Forest.cfg:170 ./Elves_and_Wose/scenarios/4_Dwarven_Path.cfg:106 ./Elves_and_Wose/scenarios/14_Visiting_Crelanu.cfg:125 ./Elves_and_Wose/scenarios/11_North_Bay.cfg:155 ./Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:241 ./Elves_and_Wose/scenarios/9_Bridge_of_Eloh.cfg:104 ./Elves_and_Wose/scenarios/22_Gitamoth_War.cfg:220 ./Elves_and_Wose/scenarios/5_Troll_Mountain.cfg:112 ./Elves_and_Wose/scenarios/13_North_Spring.cfg:179 ./Elves_and_Wose/scenarios/7_Gitamoth_Border.cfg:195 ./Elves_and_Wose/scenarios/2_Glyns_Castle.cfg:153 ./Elves_and_Wose/scenarios/12_North_Country.cfg:121
 msgid "Death of Saleh"
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./Elves_and_Wose/scenarios/6_Troll_Road.cfg:125 ./Elves_and_Wose/scenarios/8_Gitamoth_Forest.cfg:174 ./Elves_and_Wose/scenarios/22_Gitamoth_War.cfg:224 ./Elves_and_Wose/scenarios/4_Dwarven_Path.cfg:110 ./Elves_and_Wose/scenarios/14_Visiting_Crelanu.cfg:129 ./Elves_and_Wose/scenarios/12_North_Country.cfg:125 ./Elves_and_Wose/scenarios/13_North_Spring.cfg:183 ./Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:249 ./Elves_and_Wose/scenarios/7_Gitamoth_Border.cfg:199 ./Elves_and_Wose/scenarios/11_North_Bay.cfg:159 ./Elves_and_Wose/scenarios/9_Bridge_of_Eloh.cfg:108
+#: ./Elves_and_Wose/scenarios/6_Troll_Road.cfg:125 ./Elves_and_Wose/scenarios/8_Gitamoth_Forest.cfg:174 ./Elves_and_Wose/scenarios/4_Dwarven_Path.cfg:110 ./Elves_and_Wose/scenarios/14_Visiting_Crelanu.cfg:129 ./Elves_and_Wose/scenarios/11_North_Bay.cfg:159 ./Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:249 ./Elves_and_Wose/scenarios/9_Bridge_of_Eloh.cfg:108 ./Elves_and_Wose/scenarios/22_Gitamoth_War.cfg:224 ./Elves_and_Wose/scenarios/13_North_Spring.cfg:183 ./Elves_and_Wose/scenarios/7_Gitamoth_Border.cfg:199 ./Elves_and_Wose/scenarios/12_North_Country.cfg:125
 msgid "Death of Greentall"
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./Elves_and_Wose/scenarios/6_Troll_Road.cfg:121 ./Elves_and_Wose/scenarios/8_Gitamoth_Forest.cfg:178 ./Elves_and_Wose/scenarios/22_Gitamoth_War.cfg:228 ./Elves_and_Wose/scenarios/14_Visiting_Crelanu.cfg:133 ./Elves_and_Wose/scenarios/12_North_Country.cfg:129 ./Elves_and_Wose/scenarios/13_North_Spring.cfg:187 ./Elves_and_Wose/scenarios/11_North_Bay.cfg:163 ./Elves_and_Wose/scenarios/9_Bridge_of_Eloh.cfg:112
+#: ./Elves_and_Wose/scenarios/6_Troll_Road.cfg:121 ./Elves_and_Wose/scenarios/8_Gitamoth_Forest.cfg:178 ./Elves_and_Wose/scenarios/14_Visiting_Crelanu.cfg:133 ./Elves_and_Wose/scenarios/11_North_Bay.cfg:163 ./Elves_and_Wose/scenarios/9_Bridge_of_Eloh.cfg:112 ./Elves_and_Wose/scenarios/22_Gitamoth_War.cfg:228 ./Elves_and_Wose/scenarios/13_North_Spring.cfg:187 ./Elves_and_Wose/scenarios/12_North_Country.cfg:129
 msgid "Death of Bimli"
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./Elves_and_Wose/scenarios/22_Gitamoth_War.cfg:232 ./Elves_and_Wose/scenarios/14_Visiting_Crelanu.cfg:137 ./Elves_and_Wose/scenarios/12_North_Country.cfg:133 ./Elves_and_Wose/scenarios/13_North_Spring.cfg:191 ./Elves_and_Wose/scenarios/11_North_Bay.cfg:167
+#: ./Elves_and_Wose/scenarios/14_Visiting_Crelanu.cfg:137 ./Elves_and_Wose/scenarios/11_North_Bay.cfg:167 ./Elves_and_Wose/scenarios/22_Gitamoth_War.cfg:232 ./Elves_and_Wose/scenarios/13_North_Spring.cfg:191 ./Elves_and_Wose/scenarios/12_North_Country.cfg:133
 msgid "Death of Chantal"
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./Elves_and_Wose/scenarios/22_Gitamoth_War.cfg:236 ./Elves_and_Wose/scenarios/14_Visiting_Crelanu.cfg:141 ./Elves_and_Wose/scenarios/12_North_Country.cfg:137 ./Elves_and_Wose/scenarios/13_North_Spring.cfg:195 ./Elves_and_Wose/scenarios/11_North_Bay.cfg:171
+#: ./Elves_and_Wose/scenarios/14_Visiting_Crelanu.cfg:141 ./Elves_and_Wose/scenarios/11_North_Bay.cfg:171 ./Elves_and_Wose/scenarios/22_Gitamoth_War.cfg:236 ./Elves_and_Wose/scenarios/13_North_Spring.cfg:195 ./Elves_and_Wose/scenarios/12_North_Country.cfg:137
 msgid "Death of Milolas"
 msgstr ""
 
@@ -415,7 +415,7 @@ msgid "Here we go again."
 msgstr ""
 
 #. [message]: id=Saleh
-#: ./Elves_and_Wose/scenarios/12_North_Country.cfg:202 ./Elves_and_Wose/scenarios/13_North_Spring.cfg:264
+#: ./Elves_and_Wose/scenarios/13_North_Spring.cfg:264 ./Elves_and_Wose/scenarios/12_North_Country.cfg:202
 msgid "We still haven't defeated our foe and our troops and supplies are exhausted. This is the end!"
 msgstr ""
 
@@ -570,7 +570,7 @@ msgid "Defeat all Enemies"
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./Elves_and_Wose/scenarios/20_Return_to_Glyns_Castle.cfg:185 ./Elves_and_Wose/scenarios/20_Return_to_Glyns_Castle.cfg:354 ./Elves_and_Wose/scenarios/14_Visiting_Crelanu.cfg:145 ./Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:213
+#: ./Elves_and_Wose/scenarios/20_Return_to_Glyns_Castle.cfg:185 ./Elves_and_Wose/scenarios/20_Return_to_Glyns_Castle.cfg:354 ./Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:213 ./Elves_and_Wose/scenarios/14_Visiting_Crelanu.cfg:145
 msgid "Death of Crelanu"
 msgstr ""
 
@@ -805,7 +805,7 @@ msgid "Last for 25 turns"
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./Elves_and_Wose/scenarios/20_Return_to_Glyns_Castle.cfg:358 ./Elves_and_Wose/scenarios/2_Glyns_Castle.cfg:157 ./Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:245 ./Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:209
+#: ./Elves_and_Wose/scenarios/20_Return_to_Glyns_Castle.cfg:358 ./Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:209 ./Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:245 ./Elves_and_Wose/scenarios/2_Glyns_Castle.cfg:157
 msgid "Death of Kalenz"
 msgstr ""
 
@@ -949,14 +949,14 @@ msgstr ""
 msgid "You must be very careful. There will be bounty hunters looking for you."
 msgstr ""
 
-#: ./Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:10
+#: ./Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:8
 msgid ""
 "<i>2P Multiplayer Campaign</i>\n"
 "\n"
 ""
 msgstr ""
 
-#: ./Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:11
+#: ./Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:10
 msgid ""
 "This is the story of Saleh's adventures, a faithful companion of the High Lord Kalenz since his childhood. As Kalenz heads to Weldyn to meet the king and pay respects to the deceased Delfador, he must rely on Saleh to find troops to protect the forests and the wose. Meanwhile, betrayal sweeps through Wesmere.\n"
 ""
@@ -988,7 +988,7 @@ msgid "It had been two days since Kalenz was informed that the great Elder Mage 
 msgstr ""
 
 #. [part]
-#: ./Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:51
+#: ./Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:50
 msgid ""
 "Kalenz decided that he would travel alone along the Northern edge of the Great River, and cross over at Glyn's Forest. There he would visit his comrade, Saleh, before continuing on the long journey to Weldyn, as this would surely cheer him up.\n"
 "Despite of Saleh's parents had joined Landar in the great war among the elves, and therefore exiled by the Ka'lian meeting, the Glyn's forest were a welcome rest for Kalenz battered spirit restore forces and meet a friend."
@@ -1222,7 +1222,7 @@ msgstr ""
 
 #. [side]: type=Elvish Avenger, id=Llandor
 #. [side]: type=Elvish Marshal, id=Llandor
-#: ./Elves_and_Wose/scenarios/22_Gitamoth_War.cfg:50 ./Elves_and_Wose/scenarios/23_Reunited.cfg:80 ./Elves_and_Wose/scenarios/7_Gitamoth_Border.cfg:55
+#: ./Elves_and_Wose/scenarios/22_Gitamoth_War.cfg:50 ./Elves_and_Wose/scenarios/7_Gitamoth_Border.cfg:55 ./Elves_and_Wose/scenarios/23_Reunited.cfg:80
 msgid "Llandor"
 msgstr ""
 
@@ -1957,12 +1957,12 @@ msgid "The Aragwaithi are a noble people, fragile in body, but their training ma
 msgstr ""
 
 #. [attack]: type=blade
-#: ./Elves_and_Wose/units/human-aragwaithi/Strongbow.cfg:65 ./Elves_and_Wose/units/human-aragwaithi/Archer.cfg:25
+#: ./Elves_and_Wose/units/human-aragwaithi/Archer.cfg:25 ./Elves_and_Wose/units/human-aragwaithi/Strongbow.cfg:65
 msgid "knife"
 msgstr ""
 
 #. [attack]: type=pierce
-#: ./Elves_and_Wose/units/human-aragwaithi/Slayer.cfg:77 ./Elves_and_Wose/units/human-aragwaithi/Strongbow.cfg:74 ./Elves_and_Wose/units/human-aragwaithi/Greatbow.cfg:34 ./Elves_and_Wose/units/human-aragwaithi/Archer.cfg:34
+#: ./Elves_and_Wose/units/human-aragwaithi/Archer.cfg:34 ./Elves_and_Wose/units/human-aragwaithi/Greatbow.cfg:34 ./Elves_and_Wose/units/human-aragwaithi/Strongbow.cfg:74 ./Elves_and_Wose/units/human-aragwaithi/Slayer.cfg:77
 msgid "bow"
 msgstr ""
 
@@ -1977,12 +1977,12 @@ msgid "The captains of the Aragwaithi are heroes among their people; such rank i
 msgstr ""
 
 #. [attack]: type=pierce
-#: ./Elves_and_Wose/units/human-aragwaithi/Flagbearer.cfg:41 ./Elves_and_Wose/units/human-aragwaithi/Captain.cfg:42 ./Elves_and_Wose/units/human-aragwaithi/Lancer.cfg:80 ./Elves_and_Wose/units/human-aragwaithi/Scout.cfg:23 ./Elves_and_Wose/units/human-aragwaithi/Silver_Shield.cfg:88 ./Elves_and_Wose/units/human-aragwaithi/Spearman.cfg:23
+#: ./Elves_and_Wose/units/human-aragwaithi/Silver_Shield.cfg:88 ./Elves_and_Wose/units/human-aragwaithi/Lancer.cfg:80 ./Elves_and_Wose/units/human-aragwaithi/Spearman.cfg:23 ./Elves_and_Wose/units/human-aragwaithi/Captain.cfg:42 ./Elves_and_Wose/units/human-aragwaithi/Scout.cfg:23 ./Elves_and_Wose/units/human-aragwaithi/Flagbearer.cfg:41
 msgid "spear"
 msgstr ""
 
 #. [attack]: type=blade
-#: ./Elves_and_Wose/units/human-aragwaithi/Flagbearer.cfg:52 ./Elves_and_Wose/units/human-aragwaithi/Shield_Guard.cfg:29 ./Elves_and_Wose/units/human-aragwaithi/Captain.cfg:53 ./Elves_and_Wose/units/human-aragwaithi/Greatbow.cfg:25 ./Elves_and_Wose/units/human-aragwaithi/Guard.cfg:57 ./Elves_and_Wose/units/human-aragwaithi/Swordsman.cfg:34
+#: ./Elves_and_Wose/units/human-aragwaithi/Shield_Guard.cfg:29 ./Elves_and_Wose/units/human-aragwaithi/Greatbow.cfg:25 ./Elves_and_Wose/units/human-aragwaithi/Guard.cfg:57 ./Elves_and_Wose/units/human-aragwaithi/Captain.cfg:53 ./Elves_and_Wose/units/human-aragwaithi/Swordsman.cfg:34 ./Elves_and_Wose/units/human-aragwaithi/Flagbearer.cfg:52
 msgid "sword"
 msgstr ""
 
@@ -1997,12 +1997,12 @@ msgid "With experience, Eagle riders become more skilled and the relation with t
 msgstr ""
 
 #. [attack]: type=blade
-#: ./Elves_and_Wose/units/human-aragwaithi/Eagle_Master.cfg:27 ./Elves_and_Wose/units/human-aragwaithi/Eagle_Rider.cfg:27
+#: ./Elves_and_Wose/units/human-aragwaithi/Eagle_Rider.cfg:27 ./Elves_and_Wose/units/human-aragwaithi/Eagle_Master.cfg:27
 msgid "claws"
 msgstr ""
 
 #. [attack]: type=impact
-#: ./Elves_and_Wose/units/human-aragwaithi/Eagle_Master.cfg:36 ./Elves_and_Wose/units/human-aragwaithi/Eagle_Rider.cfg:36
+#: ./Elves_and_Wose/units/human-aragwaithi/Eagle_Rider.cfg:36 ./Elves_and_Wose/units/human-aragwaithi/Eagle_Master.cfg:36
 msgid "prey crush"
 msgstr ""
 
@@ -2152,12 +2152,12 @@ msgid "Sorcerers are like the wind -  they can stand in front of you and one sec
 msgstr ""
 
 #. [attack]: type=impact
-#: ./Elves_and_Wose/units/human-aragwaithi/Wizard.cfg:25 ./Elves_and_Wose/units/human-aragwaithi/Warlock.cfg:25 ./Elves_and_Wose/units/human-aragwaithi/Sorcerer.cfg:34
+#: ./Elves_and_Wose/units/human-aragwaithi/Sorcerer.cfg:34 ./Elves_and_Wose/units/human-aragwaithi/Wizard.cfg:25 ./Elves_and_Wose/units/human-aragwaithi/Warlock.cfg:25
 msgid "staff"
 msgstr ""
 
 #. [attack]: type=fire
-#: ./Elves_and_Wose/units/human-aragwaithi/Wizard.cfg:34 ./Elves_and_Wose/units/human-aragwaithi/Warlock.cfg:34 ./Elves_and_Wose/units/human-aragwaithi/Sorcerer.cfg:43
+#: ./Elves_and_Wose/units/human-aragwaithi/Sorcerer.cfg:43 ./Elves_and_Wose/units/human-aragwaithi/Wizard.cfg:34 ./Elves_and_Wose/units/human-aragwaithi/Warlock.cfg:34
 msgid "mage-bolt"
 msgstr ""
 
@@ -2167,7 +2167,7 @@ msgid "Aragwaith^Sorceress"
 msgstr ""
 
 #. [female]
-#: ./Elves_and_Wose/units/human-aragwaithi/Sorcerer.cfg:107
+#: ./Elves_and_Wose/units/human-aragwaithi/Sorcerer.cfg:105
 msgid ""
 "Sorceresses are like the wind they can stand in front of you and one second later behind you. On the battlefield they are fearful enemies and even the aragwaithi throw a carefull eye on them mostly from a prefered distance of a hundred feets.\n"
 "\n"
@@ -2200,7 +2200,7 @@ msgid "Swordmaster"
 msgstr ""
 
 #. [unit_type]: id=EW Aragwaithi Swordmaster, race=aragwaith
-#: ./Elves_and_Wose/units/human-aragwaithi/Swordmaster.cfg:21
+#: ./Elves_and_Wose/units/human-aragwaithi/Swordmaster.cfg:19
 msgid ""
 "Swordmasters do not come into their title lightly. They have endured years of rigorous Aragwaithi military training, and survived many ferocious battles. Their skill with their blades is spoken of with awe among those few foes who have witnessed it - and lived.\n"
 "\n"
@@ -2233,7 +2233,7 @@ msgid "female^Witch"
 msgstr ""
 
 #. [female]
-#: ./Elves_and_Wose/units/human-aragwaithi/Warlock.cfg:113
+#: ./Elves_and_Wose/units/human-aragwaithi/Warlock.cfg:111
 msgid ""
 "female^The magically inclined among the Aragwaithi recieve not only the martial training so common in Aragwaithi society, but also in the art of healing, and of course in magic. Wielding powerful fire, competent with their staves, possessing a healing touch, Witchs are the noblest of a noble people.\n"
 "\n"
