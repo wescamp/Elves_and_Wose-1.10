@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-02-26 17:19+0100\n"
+"POT-Creation-Date: 2012-05-11 23:35-0400\n"
 "PO-Revision-Date: 2011-03-01 15:55+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -138,8 +138,8 @@ msgid ""
 msgstr ""
 
 #. [side]: type=Elvish High Lord, id=Iradia
-#: Elves_and_Wose/scenarios/22_Gitamoth_War.cfg:134
 #: Elves_and_Wose/scenarios/10_Kalian_Meeting.cfg:60
+#: Elves_and_Wose/scenarios/22_Gitamoth_War.cfg:134
 msgid "Iradia"
 msgstr ""
 
@@ -154,8 +154,8 @@ msgid "Milolas"
 msgstr ""
 
 #. [unit]: type=Elvish Champion, id=Galtrid
-#: Elves_and_Wose/scenarios/21_Return_to_Kalian.cfg:143
 #: Elves_and_Wose/scenarios/10_Kalian_Meeting.cfg:135
+#: Elves_and_Wose/scenarios/21_Return_to_Kalian.cfg:143
 msgid "Galtrid"
 msgstr ""
 
@@ -326,8 +326,8 @@ msgstr ""
 #. [side]: type=Elvish Marshal, id=Aryad
 #. [unit]: type=Elvish Marshal, id=Aryad
 #: Elves_and_Wose/scenarios/11_North_Bay.cfg:58
-#: Elves_and_Wose/scenarios/21_Return_to_Kalian.cfg:158
 #: Elves_and_Wose/scenarios/13_North_Spring.cfg:51
+#: Elves_and_Wose/scenarios/21_Return_to_Kalian.cfg:158
 #: Elves_and_Wose/scenarios/23_Reunited.cfg:92
 msgid "Aryad"
 msgstr ""
@@ -343,76 +343,76 @@ msgid "Merdor"
 msgstr ""
 
 #. [objective]: condition=win
+#: Elves_and_Wose/scenarios/11_North_Bay.cfg:151
+#: Elves_and_Wose/scenarios/12_North_Country.cfg:117
+#: Elves_and_Wose/scenarios/13_North_Spring.cfg:175
+#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:200
 #: Elves_and_Wose/scenarios/3_Glyns_Border.cfg:128
 #: Elves_and_Wose/scenarios/8_Gitamoth_Forest.cfg:166
-#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:200
-#: Elves_and_Wose/scenarios/11_North_Bay.cfg:151
 #: Elves_and_Wose/scenarios/9_Bridge_of_Eloh.cfg:100
-#: Elves_and_Wose/scenarios/13_North_Spring.cfg:175
-#: Elves_and_Wose/scenarios/12_North_Country.cfg:117
 msgid "Defeat all enemies"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Elves_and_Wose/scenarios/3_Glyns_Border.cfg:132
-#: Elves_and_Wose/scenarios/6_Troll_Road.cfg:117
-#: Elves_and_Wose/scenarios/8_Gitamoth_Forest.cfg:170
-#: Elves_and_Wose/scenarios/4_Dwarven_Path.cfg:106
-#: Elves_and_Wose/scenarios/14_Visiting_Crelanu.cfg:125
 #: Elves_and_Wose/scenarios/11_North_Bay.cfg:155
-#: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:241
-#: Elves_and_Wose/scenarios/9_Bridge_of_Eloh.cfg:104
-#: Elves_and_Wose/scenarios/22_Gitamoth_War.cfg:220
-#: Elves_and_Wose/scenarios/5_Troll_Mountain.cfg:112
-#: Elves_and_Wose/scenarios/13_North_Spring.cfg:179
-#: Elves_and_Wose/scenarios/7_Gitamoth_Border.cfg:195
-#: Elves_and_Wose/scenarios/2_Glyns_Castle.cfg:153
 #: Elves_and_Wose/scenarios/12_North_Country.cfg:121
+#: Elves_and_Wose/scenarios/13_North_Spring.cfg:179
+#: Elves_and_Wose/scenarios/14_Visiting_Crelanu.cfg:125
+#: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:241
+#: Elves_and_Wose/scenarios/22_Gitamoth_War.cfg:220
+#: Elves_and_Wose/scenarios/2_Glyns_Castle.cfg:153
+#: Elves_and_Wose/scenarios/3_Glyns_Border.cfg:132
+#: Elves_and_Wose/scenarios/4_Dwarven_Path.cfg:106
+#: Elves_and_Wose/scenarios/5_Troll_Mountain.cfg:112
+#: Elves_and_Wose/scenarios/6_Troll_Road.cfg:117
+#: Elves_and_Wose/scenarios/7_Gitamoth_Border.cfg:195
+#: Elves_and_Wose/scenarios/8_Gitamoth_Forest.cfg:170
+#: Elves_and_Wose/scenarios/9_Bridge_of_Eloh.cfg:104
 msgid "Death of Saleh"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Elves_and_Wose/scenarios/6_Troll_Road.cfg:125
-#: Elves_and_Wose/scenarios/8_Gitamoth_Forest.cfg:174
-#: Elves_and_Wose/scenarios/4_Dwarven_Path.cfg:110
-#: Elves_and_Wose/scenarios/14_Visiting_Crelanu.cfg:129
 #: Elves_and_Wose/scenarios/11_North_Bay.cfg:159
-#: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:249
-#: Elves_and_Wose/scenarios/9_Bridge_of_Eloh.cfg:108
-#: Elves_and_Wose/scenarios/22_Gitamoth_War.cfg:224
-#: Elves_and_Wose/scenarios/13_North_Spring.cfg:183
-#: Elves_and_Wose/scenarios/7_Gitamoth_Border.cfg:199
 #: Elves_and_Wose/scenarios/12_North_Country.cfg:125
+#: Elves_and_Wose/scenarios/13_North_Spring.cfg:183
+#: Elves_and_Wose/scenarios/14_Visiting_Crelanu.cfg:129
+#: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:249
+#: Elves_and_Wose/scenarios/22_Gitamoth_War.cfg:224
+#: Elves_and_Wose/scenarios/4_Dwarven_Path.cfg:110
+#: Elves_and_Wose/scenarios/6_Troll_Road.cfg:125
+#: Elves_and_Wose/scenarios/7_Gitamoth_Border.cfg:199
+#: Elves_and_Wose/scenarios/8_Gitamoth_Forest.cfg:174
+#: Elves_and_Wose/scenarios/9_Bridge_of_Eloh.cfg:108
 msgid "Death of Greentall"
 msgstr ""
 
 #. [objective]: condition=lose
+#: Elves_and_Wose/scenarios/11_North_Bay.cfg:163
+#: Elves_and_Wose/scenarios/12_North_Country.cfg:129
+#: Elves_and_Wose/scenarios/13_North_Spring.cfg:187
+#: Elves_and_Wose/scenarios/14_Visiting_Crelanu.cfg:133
+#: Elves_and_Wose/scenarios/22_Gitamoth_War.cfg:228
 #: Elves_and_Wose/scenarios/6_Troll_Road.cfg:121
 #: Elves_and_Wose/scenarios/8_Gitamoth_Forest.cfg:178
-#: Elves_and_Wose/scenarios/14_Visiting_Crelanu.cfg:133
-#: Elves_and_Wose/scenarios/11_North_Bay.cfg:163
 #: Elves_and_Wose/scenarios/9_Bridge_of_Eloh.cfg:112
-#: Elves_and_Wose/scenarios/22_Gitamoth_War.cfg:228
-#: Elves_and_Wose/scenarios/13_North_Spring.cfg:187
-#: Elves_and_Wose/scenarios/12_North_Country.cfg:129
 msgid "Death of Bimli"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Elves_and_Wose/scenarios/14_Visiting_Crelanu.cfg:137
 #: Elves_and_Wose/scenarios/11_North_Bay.cfg:167
-#: Elves_and_Wose/scenarios/22_Gitamoth_War.cfg:232
-#: Elves_and_Wose/scenarios/13_North_Spring.cfg:191
 #: Elves_and_Wose/scenarios/12_North_Country.cfg:133
+#: Elves_and_Wose/scenarios/13_North_Spring.cfg:191
+#: Elves_and_Wose/scenarios/14_Visiting_Crelanu.cfg:137
+#: Elves_and_Wose/scenarios/22_Gitamoth_War.cfg:232
 msgid "Death of Chantal"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Elves_and_Wose/scenarios/14_Visiting_Crelanu.cfg:141
 #: Elves_and_Wose/scenarios/11_North_Bay.cfg:171
-#: Elves_and_Wose/scenarios/22_Gitamoth_War.cfg:236
-#: Elves_and_Wose/scenarios/13_North_Spring.cfg:195
 #: Elves_and_Wose/scenarios/12_North_Country.cfg:137
+#: Elves_and_Wose/scenarios/13_North_Spring.cfg:195
+#: Elves_and_Wose/scenarios/14_Visiting_Crelanu.cfg:141
+#: Elves_and_Wose/scenarios/22_Gitamoth_War.cfg:236
 msgid "Death of Milolas"
 msgstr ""
 
@@ -554,8 +554,8 @@ msgid "Here we go again."
 msgstr ""
 
 #. [message]: id=Saleh
-#: Elves_and_Wose/scenarios/13_North_Spring.cfg:264
 #: Elves_and_Wose/scenarios/12_North_Country.cfg:202
+#: Elves_and_Wose/scenarios/13_North_Spring.cfg:264
 msgid ""
 "We still haven't defeated our foe and our troops and supplies are exhausted. "
 "This is the end!"
@@ -786,10 +786,10 @@ msgid "Defeat all Enemies"
 msgstr ""
 
 #. [objective]: condition=lose
+#: Elves_and_Wose/scenarios/14_Visiting_Crelanu.cfg:145
+#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:213
 #: Elves_and_Wose/scenarios/20_Return_to_Glyns_Castle.cfg:185
 #: Elves_and_Wose/scenarios/20_Return_to_Glyns_Castle.cfg:354
-#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:213
-#: Elves_and_Wose/scenarios/14_Visiting_Crelanu.cfg:145
 msgid "Death of Crelanu"
 msgstr ""
 
@@ -1112,9 +1112,9 @@ msgid "Last for 25 turns"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Elves_and_Wose/scenarios/20_Return_to_Glyns_Castle.cfg:358
 #: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:209
 #: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:245
+#: Elves_and_Wose/scenarios/20_Return_to_Glyns_Castle.cfg:358
 #: Elves_and_Wose/scenarios/2_Glyns_Castle.cfg:157
 msgid "Death of Kalenz"
 msgstr ""
@@ -1457,8 +1457,8 @@ msgid "Consider your actions noted!"
 msgstr ""
 
 #. [message]: id=Saleh
-#: Elves_and_Wose/scenarios/4_Dwarven_Path.cfg:208
 #: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:348
+#: Elves_and_Wose/scenarios/4_Dwarven_Path.cfg:208
 msgid "Oh, no! More of them are pouring in, we are too late..."
 msgstr ""
 
@@ -1586,11 +1586,11 @@ msgstr ""
 msgid "No! It's all over without the wose!"
 msgstr ""
 
-#. [message]: id=Saleh
 #. [message]: id=Kalenz
-#: Elves_and_Wose/scenarios/3_Glyns_Border.cfg:186
+#. [message]: id=Saleh
 #: Elves_and_Wose/scenarios/20_Return_to_Glyns_Castle.cfg:448
 #: Elves_and_Wose/scenarios/2_Glyns_Castle.cfg:240
+#: Elves_and_Wose/scenarios/3_Glyns_Border.cfg:186
 msgid "No! More orcs are coming, we are doomed..."
 msgstr ""
 
@@ -1648,8 +1648,8 @@ msgstr ""
 #. [side]: type=Elvish Avenger, id=Llandor
 #. [side]: type=Elvish Marshal, id=Llandor
 #: Elves_and_Wose/scenarios/22_Gitamoth_War.cfg:50
-#: Elves_and_Wose/scenarios/7_Gitamoth_Border.cfg:55
 #: Elves_and_Wose/scenarios/23_Reunited.cfg:80
+#: Elves_and_Wose/scenarios/7_Gitamoth_Border.cfg:55
 msgid "Llandor"
 msgstr ""
 
@@ -1868,8 +1868,8 @@ msgid "Death of  Deeproots"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Elves_and_Wose/scenarios/3_Glyns_Border.cfg:136
 #: Elves_and_Wose/scenarios/2_Glyns_Castle.cfg:165
+#: Elves_and_Wose/scenarios/3_Glyns_Border.cfg:136
 msgid "Death of  Greentall"
 msgstr ""
 
@@ -2185,8 +2185,8 @@ msgid "You heard the trolls men. Prepare for battle! "
 msgstr ""
 
 #. [message]: id=Saleh
-#: Elves_and_Wose/scenarios/6_Troll_Road.cfg:222
 #: Elves_and_Wose/scenarios/5_Troll_Mountain.cfg:222
+#: Elves_and_Wose/scenarios/6_Troll_Road.cfg:222
 msgid "We are too late..."
 msgstr ""
 
@@ -2332,8 +2332,8 @@ msgid "You have given us enough trouble elf! Today it ends!"
 msgstr ""
 
 #. [message]: id=Saleh
-#: Elves_and_Wose/scenarios/8_Gitamoth_Forest.cfg:247
 #: Elves_and_Wose/scenarios/7_Gitamoth_Border.cfg:265
+#: Elves_and_Wose/scenarios/8_Gitamoth_Forest.cfg:247
 msgid ""
 "We still haven't defeated the orcs and our troops and supplies are "
 "exhausted. This is the end!"
@@ -2565,8 +2565,8 @@ msgstr ""
 #. [attack]: type=pierce
 #: Elves_and_Wose/units/human-aragwaithi/Archer.cfg:34
 #: Elves_and_Wose/units/human-aragwaithi/Greatbow.cfg:34
-#: Elves_and_Wose/units/human-aragwaithi/Strongbow.cfg:74
 #: Elves_and_Wose/units/human-aragwaithi/Slayer.cfg:77
+#: Elves_and_Wose/units/human-aragwaithi/Strongbow.cfg:74
 msgid "bow"
 msgstr ""
 
@@ -2585,22 +2585,22 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=pierce
-#: Elves_and_Wose/units/human-aragwaithi/Silver_Shield.cfg:88
-#: Elves_and_Wose/units/human-aragwaithi/Lancer.cfg:80
-#: Elves_and_Wose/units/human-aragwaithi/Spearman.cfg:23
 #: Elves_and_Wose/units/human-aragwaithi/Captain.cfg:42
-#: Elves_and_Wose/units/human-aragwaithi/Scout.cfg:23
 #: Elves_and_Wose/units/human-aragwaithi/Flagbearer.cfg:41
+#: Elves_and_Wose/units/human-aragwaithi/Lancer.cfg:80
+#: Elves_and_Wose/units/human-aragwaithi/Scout.cfg:23
+#: Elves_and_Wose/units/human-aragwaithi/Silver_Shield.cfg:88
+#: Elves_and_Wose/units/human-aragwaithi/Spearman.cfg:23
 msgid "spear"
 msgstr ""
 
 #. [attack]: type=blade
-#: Elves_and_Wose/units/human-aragwaithi/Shield_Guard.cfg:29
+#: Elves_and_Wose/units/human-aragwaithi/Captain.cfg:53
+#: Elves_and_Wose/units/human-aragwaithi/Flagbearer.cfg:52
 #: Elves_and_Wose/units/human-aragwaithi/Greatbow.cfg:25
 #: Elves_and_Wose/units/human-aragwaithi/Guard.cfg:57
-#: Elves_and_Wose/units/human-aragwaithi/Captain.cfg:53
+#: Elves_and_Wose/units/human-aragwaithi/Shield_Guard.cfg:29
 #: Elves_and_Wose/units/human-aragwaithi/Swordsman.cfg:34
-#: Elves_and_Wose/units/human-aragwaithi/Flagbearer.cfg:52
 msgid "sword"
 msgstr ""
 
@@ -2618,14 +2618,14 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=blade
-#: Elves_and_Wose/units/human-aragwaithi/Eagle_Rider.cfg:27
 #: Elves_and_Wose/units/human-aragwaithi/Eagle_Master.cfg:27
+#: Elves_and_Wose/units/human-aragwaithi/Eagle_Rider.cfg:27
 msgid "claws"
 msgstr ""
 
 #. [attack]: type=impact
-#: Elves_and_Wose/units/human-aragwaithi/Eagle_Rider.cfg:36
 #: Elves_and_Wose/units/human-aragwaithi/Eagle_Master.cfg:36
+#: Elves_and_Wose/units/human-aragwaithi/Eagle_Rider.cfg:36
 msgid "prey crush"
 msgstr ""
 
@@ -2736,8 +2736,8 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=blade
-#: Elves_and_Wose/units/human-aragwaithi/Swordmaster.cfg:82
 #: Elves_and_Wose/units/human-aragwaithi/Longswordsman.cfg:64
+#: Elves_and_Wose/units/human-aragwaithi/Swordmaster.cfg:82
 msgid "longsword"
 msgstr ""
 
@@ -2833,15 +2833,15 @@ msgstr ""
 
 #. [attack]: type=impact
 #: Elves_and_Wose/units/human-aragwaithi/Sorcerer.cfg:34
-#: Elves_and_Wose/units/human-aragwaithi/Wizard.cfg:25
 #: Elves_and_Wose/units/human-aragwaithi/Warlock.cfg:25
+#: Elves_and_Wose/units/human-aragwaithi/Wizard.cfg:25
 msgid "staff"
 msgstr ""
 
 #. [attack]: type=fire
 #: Elves_and_Wose/units/human-aragwaithi/Sorcerer.cfg:43
-#: Elves_and_Wose/units/human-aragwaithi/Wizard.cfg:34
 #: Elves_and_Wose/units/human-aragwaithi/Warlock.cfg:34
+#: Elves_and_Wose/units/human-aragwaithi/Wizard.cfg:34
 msgid "mage-bolt"
 msgstr ""
 
